@@ -1,0 +1,1 @@
+This is just to test branch2 feature adding after merging branch1 into master.
